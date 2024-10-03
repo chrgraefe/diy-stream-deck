@@ -12,6 +12,7 @@ Basierend auf folgenden Blog-Artikel (https://www.partsnotincluded.com/diy-strea
 
 
 ## Stückliste
+- Gehäuse aus dem 3D Drucker (https://www.thingiverse.com/thing:2822140)
 - Arduino Nano Board (https://www.amazon.de/dp/B0BDM3FHF2)
 - Steckleiste 9 polig rechtwinklig male (https://www.digikey.de/de/products/detail/sullins-connector-solutions/PRPC009SBBN-M71RC/2775784)
 - Steckleiste 9 polig female https://www.digikey.de/de/products/detail/sullins-connector-solutions/PPPC091LFBN-RC/810181
