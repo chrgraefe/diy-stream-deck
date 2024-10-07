@@ -4,18 +4,7 @@
 
 Basierend auf folgenden Blog-Artikel (https://www.partsnotincluded.com/diy-stream-deck-mini-macro-keyboard/) kam die Idee auf, ein eigenes Stream Deck auf Basis von Arduino zu bauen.
 
-## Kosten
-Komponente | Kosten |
--------- | -------- |
-Arduino Micro | 6,40 € |
-Draht | 0,00-6,00 € |
-Schrauben | 7,00 € |
-Tasten-Druckschalter | ??? € |
-Tasten-Kappen | ??? € |
-Steckleiste 9 polig rechtwinklig male | ??? € |
-Steckleiste 9 polig female | ??? € |
--------- | -------- |
-*Summe* | *€* |
+
 
 ## Arduino
 
@@ -24,6 +13,7 @@ Steckleiste 9 polig female | ??? € |
 - https://www.arduino.cc/en/software
 
 ### Leistungsmerkmale
+
 
 ### Arduino programmieren
 
@@ -34,9 +24,6 @@ Steckleiste 9 polig female | ??? € |
 - https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
 - https://learn.microsoft.com/de-de/windows/powertoys/keyboard-manager
 
-
-
-S
 ## Stückliste
 - Gehäuse aus dem 3D Drucker [Amazon](https://www.thingiverse.com/thing:2822140)
 - Arduino Micro Board [Amazon](https://www.amazon.de/gp/product/B0D6B4W3XJ)
@@ -52,3 +39,15 @@ S
   - [Amazon](https://www.amazon.de/dp/B0BD5NZ7GH)
   - [Amazon](https://www.amazon.de/dp/B01DMBV6BU) (grau oder blau)
   
+## Kosten
+Komponente | Kosten |
+-------- | -------- |
+Arduino Micro | 6,40 € |
+Draht | 0,00-6,00 € |
+Schrauben | 7,00 € |
+Tasten-Druckschalter | ??? € |
+Tasten-Kappen | ??? € |
+Steckleiste 9 polig rechtwinklig male | ??? € |
+Steckleiste 9 polig female | ??? € |
+-------- | -------- |
+*Summe* | *€* |
