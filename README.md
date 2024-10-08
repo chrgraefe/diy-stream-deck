@@ -45,9 +45,9 @@ Komponente | Kosten Pkg | Kosten Einzeln |
 Arduino Micro | 18,99 € | 6,40 € | 
 Draht | 6,00 € | 0,50 € |
 Schrauben | 7,00 € | 0,50 € |
-Tasten-Druckschalter | ??? € | ??? € |
-Tasten-Kappen | ??? € | ??? € |
+Tasten-Druckschalter | 13,05 € | 2,50 € |
+Tasten-Kappen | 3,00 € | 3,00 € |
 Steckleiste 9 polig rechtwinklig male | ??? € | ??? € |
 Steckleiste 9 polig female | ??? € | ??? € |
 -- | -- | -- |
-*Summe* | *€* | *€* |
+*Summe* | *48,00 €* | *11,90 €* |
