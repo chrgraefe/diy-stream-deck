@@ -40,14 +40,14 @@ Basierend auf folgenden Blog-Artikel (https://www.partsnotincluded.com/diy-strea
   - [Amazon](https://www.amazon.de/dp/B01DMBV6BU) (grau oder blau)
   
 ## Kosten
-Komponente | Kosten |
--------- | -------- |
-Arduino Micro | 6,40 € |
-Draht | 0,00-6,00 € |
-Schrauben | 7,00 € |
-Tasten-Druckschalter | ??? € |
-Tasten-Kappen | ??? € |
-Steckleiste 9 polig rechtwinklig male | ??? € |
-Steckleiste 9 polig female | ??? € |
--------- | -------- |
-*Summe* | *€* |
+Komponente | Kosten Pkg | Kosten Einzeln |
+-- | -- | -- |
+Arduino Micro | 18,99 € | 6,40 € | 
+Draht | 6,00 € | 0,50 € |
+Schrauben | 7,00 € | 0,50 € |
+Tasten-Druckschalter | ??? € | ??? € |
+Tasten-Kappen | ??? € | ??? € |
+Steckleiste 9 polig rechtwinklig male | ??? € | ??? € |
+Steckleiste 9 polig female | ??? € | ??? € |
+-- | -- | -- |
+*Summe* | *€* | *€* |
